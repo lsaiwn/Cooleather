@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--登录界面 activity_main-->
+    <dimen name="login_image_width">190dp</dimen>
+    <dimen name="login_image_height">113dp</dimen>
+    <dimen name="login_image_marginTop">36dp</dimen>
+    <dimen name="login_editText_textSize">14sp</dimen>
+    <dimen name="login_editText_login_marginTop">47dp</dimen>
+    <dimen name="login_editText_password_marginTop">16dp</dimen>
+    <dimen name="login_button_width">146dp</dimen>
+    <dimen name="login_button_height">60px</dimen>
+    <dimen name="login_button_marginTop">43px</dimen>
+    <dimen name="login_ll_marginTop">42px</dimen>
+    <dimen name="login_textview_marginright">10dp</dimen>
+    <dimen name="login_textview_marginleft">10dp</dimen>
+    <dimen name="login_textview_textsize">10sp</dimen>
+    <dimen name="login_view_height">18dp</dimen>
+    <dimen name="login_view_width">1dp</dimen>
+
+    <!--找回密码界面 find_password-->
+    <dimen name="find_textview_width">43dp</dimen>
+    <dimen name="find_textview_height">18dp</dimen>
+    <dimen name="find_textview_marginTop">35dp</dimen>
+    <dimen name="find_textview_textsize">12sp</dimen>
+    <dimen name="find_editview_width">339dp</dimen>
+    <dimen name="find_editview_height">32dp</dimen>
+    <dimen name="find_second_ll_textview_margintop">35dp</dimen>
+    <dimen name="find_third_ll_marginleft">35dp</dimen>
+    <dimen name="find_third_textview_width">43dp</dimen>
+    <dimen name="find_third_textview_height">18dp</dimen>
+    <dimen name="find_third_textview_margintop">35dp</dimen>
+    <dimen name="find_third_editview_width">99dp</dimen>
+    <dimen name="find_third_editview_height">32dp</dimen>
+    <dimen name="find_yzm_width">94dp</dimen>
+    <dimen name="find_yzm_height">29dp</dimen>
+    <dimen name="find_yzm_marginleft">5dp</dimen>
+    <dimen name="find_button_width">301dp</dimen>
+    <dimen name="find_button_height">40dp</dimen>
+    <dimen name="find_button_margintop">20dp</dimen>
+
+    <!--问题反馈界面 question_back-->
+    <dimen name="question_ll_width">376dp</dimen>
+    <dimen name="question_ll_height">170dp</dimen>
+    <dimen name="question_ll_margintop">21dp</dimen>
+    <dimen name="question_textview_height">25dp</dimen>
+    <dimen name="question_textview_marginleft">12dp</dimen>
+    <dimen name="question_textview_textsize">13sp</dimen>
+    <dimen name="question_edit_width">345dp</dimen>
+    <dimen name="question_edit_height">130dp</dimen>
+
+
+
+</resources>
+
+
+
+
+
+
+

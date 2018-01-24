@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="@dimen/question_ll_width"
+        android:layout_height="@dimen/question_ll_height"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/question_ll_margintop"
+        android:background="@android:color/white"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/question_textview_height"
+            android:layout_marginLeft="@dimen/question_textview_marginleft"
+            android:gravity="center"
+            android:text="@string/question_detailed"
+            android:textSize="@dimen/question_textview_textsize" />
+
+        <EditText
+            android:layout_width="@dimen/question_edit_width"
+            android:layout_height="@dimen/question_edit_height"
+            android:layout_gravity="center"
+            android:gravity="start"
+            android:hint="@string/question_detailed_hint"
+            android:textColor="@color/dark"
+            android:textSize="@dimen/find_textview_textsize" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="@dimen/find_button_width"
+        android:layout_height="@dimen/find_button_height"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/find_button_margintop"
+        android:background="@drawable/button"
+        android:text="@string/sublime"
+        android:textColor="@android:color/white" />
+
+</LinearLayout>

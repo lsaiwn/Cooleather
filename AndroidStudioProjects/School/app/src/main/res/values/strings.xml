@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">School</string>
+
+
+    <string name="login">登录</string>
+    <string name="login_login_editText_hint">学号</string>
+    <string name="login_password_editText_hint">密码</string>
+    <string name="find_password">找回密码</string>
+    <string name="question_back">问题反馈</string>
+
+    <string name="find_editview_accounts">帐号:</string>
+    <string name="find_editview_email">邮箱:</string>
+    <string name="find_editview_account_hint">  请输入帐号</string>
+    <string name="find_editview_email_hint">  请输入注册的邮箱</string>
+    <string name="find_editview_yzm_hint">  请输入验证码</string>
+    <string name="find_yzm_text">获取验证码</string>
+    <string name="yzm">验证码:</string>
+    <string name="sublime">提交</string>
+
+    <string name="text">密码修改成功，请返回到主界面登录</string>
+
+    <string name="question_detailed">详细说明</string>
+    <string name="question_detailed_hint">描述具体的应用名称，操作及异常反应，期待您的反馈</string>
+
+
+</resources>
